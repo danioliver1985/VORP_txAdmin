@@ -5,7 +5,7 @@ author: vorpcore
 description: VorpCore Official txAdmin recipe! This will set up a base vorp official server.
 
 variables:
-    steam_webApiKey: "none"
+    steam_webApiKey: "772EF536EAC885CCBAFE18CC8B244EBE"
 
 tasks:
 # Recipe Specific server.cfg files
